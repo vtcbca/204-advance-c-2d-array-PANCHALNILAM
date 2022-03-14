@@ -1,20 +1,3 @@
-WAP to ebter 5 string in array and count total number of vowels in each string..
-
-*For Example*
-
-Om
-Sai
-Ram
-Radha
-Gopal
-
- *Output :*
-
-Om : 1 : O
-Sai  : 2 : a,i
-Ram: 3: a
-Radha:2 a,a
-Gopal: 2:a,a
 
    
    

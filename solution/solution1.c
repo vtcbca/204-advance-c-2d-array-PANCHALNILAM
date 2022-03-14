@@ -1,4 +1,3 @@
-Write a program to print sum of two 3*3 matrix.
 /*wap to enter two three by three matrix and print sum*/
 #include<stdio.h>
 int main()

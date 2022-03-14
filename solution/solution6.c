@@ -1,22 +1,3 @@
-WAP to enter 5 string and print it in sorting order.
-
-*For Example:*
-
-Om
-Sai
-Ram
-Radha
-Gopal
-
-*Output*
-
-Sorted Array is
-
-Gopal
-Om
-Radha
-Ram
-Sai
 /*wap to enter five string and print it in sorting*/
 #include<stdio.h>
 int main()

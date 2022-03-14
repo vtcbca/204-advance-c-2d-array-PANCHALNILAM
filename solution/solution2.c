@@ -1,10 +1,3 @@
-Write a program to check matrix is diagonal matrix or not.
-
-Note: Diagonal matrix isa square matrix in which every element except the principal diagonal elements is zero is called a Diagonal Matrix. 
-
-[  1   0    0
-   0   1    0
-   0    0   1 ]
 /*wap to enter three by three matrix its 
 diagonal matrix or not .(f=flag  variable)*/
 #include<stdio.h>
